@@ -1,10 +1,7 @@
-/** Catálogo reconstruido a partir del sitio original AlemXY/SweetBakery.
- * Ni los precios, ni la ubicación, ni el stock estaban verificados en el origen.
- * Las imágenes se sirven desde el repositorio original: revisar licencias.
+/** Recursos gráficos locales. Las ilustraciones son conceptuales, no fotografías reales de productos.
+ * Los datos de precios, stock y contacto comercial aún no están configurados.
  */
-const base =
-  "https://raw.githubusercontent.com/AlemXY/SweetBakery/main/images/";
-export const image = (name: string) => base + encodeURIComponent(name);
+export const image = (name: string): string => `/art/${name.replace(/\.[^.]+$/, "")}.svg`;
 export type Dessert = {
   id: string;
   name: string;

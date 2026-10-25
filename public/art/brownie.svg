@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="900" height="900" viewBox="0 0 900 900">
+ <defs><linearGradient id="g" x2="1" y2="1"><stop stop-color="#3B241D"/><stop offset="1" stop-color="#B07557"/></linearGradient><radialGradient id="r"><stop stop-color="#FFF" stop-opacity=".23"/><stop offset="1" stop-color="#FFF" stop-opacity="0"/></radialGradient></defs>
+ <rect width="900" height="900" fill="url(#g)"/><circle cx="495" cy="420" r="510" fill="url(#r)"/>
+ <path d="M0 315Q360 90 900 288M0 513Q360 387 900 504.00000000000006" fill="none" stroke="#FFE3CB" stroke-opacity=".13" stroke-width="6"/>
+ <rect x="305" y="360" width="335" height="230" rx="23" fill="#4B271E" stroke="#A56748" stroke-width="22" transform="rotate(-7 495 420)"/><path d="M315 435q90-55 180 0t180 0M325 500q140-60 310 5" stroke="#DFA477" stroke-width="13" fill="none"/><g fill="#6B3827"><circle cx="385" cy="408" r="22"/><circle cx="575" cy="472" r="30"/></g>
+ <rect x="28" y="28" width="844" height="844" fill="none" stroke="#FFF0DA" stroke-opacity=".26" stroke-width="2"/>
+ <text x="62" y="91" font-family="Arial,sans-serif" font-size="22" fill="#FFF1E8" letter-spacing="4" font-weight="700">SWEETBAKERY · POSTRES</text>
+ <rect y="657" width="900" height="243.00000000000003" fill="#42212A" fill-opacity=".78"/>
+ <text x="62" y="742.5" font-family="Arial,sans-serif" font-size="55" font-weight="800" fill="#FFF7F0">BROWNIE</text>
+ <text x="62" y="805.5" font-family="Arial,sans-serif" font-size="23" letter-spacing="4" fill="#FFE4D1">CHOCOLATE</text>
+ <text x="864" y="869" font-family="Arial,sans-serif" font-size="14" fill="#FFF1E8" text-anchor="end">ILUSTRACIÓN EDITORIAL</text>
+ </svg>
