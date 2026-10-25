@@ -1,0 +1,8 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 64" role="img" aria-label="SweetBakery">
+  <rect width="64" height="64" rx="15" fill="#fff0e7"/>
+  <path d="M19 35 L45 35 L41 53 Q32 57 23 53 Z" fill="#7a3e2d"/>
+  <path d="M24 35 L27 51 M32 35 L32 53 M40 35 L37 51" stroke="#cf8669" stroke-width="2" stroke-linecap="round"/>
+  <path d="M16 35 Q12 27 21 24 Q21 14 32 16 Q37 11 43 18 Q50 21 46 28 Q54 34 45 37 Z" fill="#f09cba" stroke="#b85c80" stroke-width="1.4"/>
+  <path d="M23 25 Q28 27 32 25 Q39 23 42 27" stroke="#fff2f8" fill="none" stroke-width="2.4" stroke-linecap="round"/>
+  <circle cx="34" cy="14" r="5.3" fill="#d65560"/>
+</svg>
