@@ -1,9 +1,9 @@
 /** Catálogo reconstruido a partir del sitio original AlemXY/SweetBakery.
  * Ni los precios, ni la ubicación, ni el stock estaban verificados en el origen.
- * Las imágenes se sirven desde el repositorio original: revisar licencias.
+ * Las imágenes se sirven provisionalmente desde el despliegue antiguo de Vercel.
  */
 const base =
-  "https://raw.githubusercontent.com/AlemXY/SweetBakery/main/images/";
+  "https://sweet-bakery-xi.vercel.app/images/";
 export const image = (name: string) => base + encodeURIComponent(name);
 export type Dessert = {
   id: string;
